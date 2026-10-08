@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+sqlalchemy
+opencv-python
+imagehash
+Pillow
+pytesseract
+ffmpeg-python
+chromadb
+python-dotenv
+pydantic
+aiofiles
+requests
+numpy
